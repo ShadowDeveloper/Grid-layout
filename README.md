@@ -1,4 +1,4 @@
 # Grid-layout
 Practicing CSS Grid Layout
 
-[Reference:](https://mozilladevelopers.github.io/playground/)
+[Reference: Mozilla Playground](https://mozilladevelopers.github.io/playground/)
